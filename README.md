@@ -1,1 +1,1 @@
-# Adinath-Patil
+# Codinggame solutions
